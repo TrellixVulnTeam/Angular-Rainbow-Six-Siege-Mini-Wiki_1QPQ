@@ -1,7 +1,7 @@
 # Angular-Rainbow-Six-Siege-Mini-Wiki
 Angular ile geliştirerek Rainbow Six Siege adlı oyunun Mini-Wikisini Bootstrap ve Angular Materials ile tasarladım.<br/>
 <img src="https://github.com/ibrahimethemkot/Angular-Rainbow-Six-Siege-Mini-Wiki/blob/main/src/assets/images/r6logo.png">
-# Rainbow Six Siege Wiki<img src="https://github.com/ibrahimethemkot/Angular-Rainbow-Six-Siege-Mini-Wiki/blob/main/src/assets/images/r6.png" style="height: 33px"><br/>
+# Rainbow Six Siege Wiki
 Projemde 3 adet ana Component yer alıyor.<br/><br/>
 1-) Ana Sayfa Component.<br/>
 2-) Hakkında Sayfası Component.<br/>
