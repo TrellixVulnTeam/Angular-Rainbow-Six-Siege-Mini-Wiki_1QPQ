@@ -1,0 +1,17 @@
+<header class="header">
+    <mat-toolbar color="primary">
+        <span class="op-font text-light link-none"><a href="index.html">{{headerPage.title}}</a></span>
+        <span class="example-spacer"></span>
+        <ul class="header-menu">
+          <li>
+            <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true}" >Ana Sayfa</a>
+          </li>
+          <li>
+            <a routerLink="/about" routerLinkActive="active">Hakkında</a>
+          </li>
+          <li>
+            <a routerLink="/operators" routerLinkActive="active">Operatörler</a>
+          </li>
+        </ul>
+      </mat-toolbar>
+</header>

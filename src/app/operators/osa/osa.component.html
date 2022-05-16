@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center op-font text-light">{{osaOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="op-font text-light">{{osaOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+  <img src="assets/images/osa_card.png" class="img-thumbnail rounded mx-auto d-block" alt="...">
+  <br/><br/>
+  <h4 class="text-center op-font text-light"><strong><i>{{osaOperator.playStyle}}</i></strong></h4>
+  <img src="assets/images/osa.png" alt="osa" style="width: 5rem;" class="rounded mx-auto d-block">
+  <p class="text-light op-font">{{osaOperator.info}}</p>
+  <ul class="list-group border border-light">
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{osaOperator.role}}</strong><i>{{osaOperator.operatorRole}}</i></li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{osaOperator.health}}</strong>{{osaOperator.operatorHealth}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{osaOperator.speed}}</strong>{{osaOperator.operatorSpeed}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{osaOperator.primaryWeapon}}</strong>{{osaOperator.operatorPrimaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{osaOperator.secondaryWeapon}}</strong>{{osaOperator.operatorSecondaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{osaOperator.device}}</strong>{{osaOperator.operatorDevice}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{osaOperator.specialAbility}}</strong>{{osaOperator.operatorSpecialAbility}}</li>
+  </ul>
+</mat-card-content>
+  <div class="col text-center">
+    <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/osa"><button class="btn btn-primary op-font text-light link-none">{{osaOperator.operatorDetailButton}}</button></a>
+  </div>
+</mat-card>

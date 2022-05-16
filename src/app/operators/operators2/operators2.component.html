@@ -1,0 +1,37 @@
+<main class="background-g">
+    <h1 class="page-title text-center op-font text-light">{{pageTitle.title}}</h1>
+    <p class="page-description text-center op-font text-light">{{pageTitle.info}}</p>
+    <br/>
+    <div class="cards">
+      <div class="row">
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-melusi [melusiOperator]="melusiOperator"></app-melusi>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-oryx [oryxOperator]="oryxOperator"></app-oryx>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-iana [ianaOperator]="ianaOperator"></app-iana>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-wamai [wamaiOperator]="wamaiOperator"></app-wamai>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-kali [kaliOperator]="kaliOperator"></app-kali>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-amaru [amaruOperator]="amaruOperator"></app-amaru>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-goyo [goyoOperator]="goyoOperator"></app-goyo>
+        </div>
+        <div class="col-12 col-md-4 col-lg-3" style="width: 28rem;">
+          <app-nokk [nokkOperator]="nokkOperator"></app-nokk>
+        </div>
+        </div>
+        </div>
+        <div class="btn-toolbar d-flex justify-content-center" role="toolbar" aria-label="Toolbar with button groups">
+          <app-operatorsfooter></app-operatorsfooter>
+        </div>
+  </main>
+  

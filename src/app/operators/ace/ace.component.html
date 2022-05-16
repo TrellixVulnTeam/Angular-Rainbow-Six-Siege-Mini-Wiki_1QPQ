@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center op-font text-light">{{aceOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="op-font text-light">{{aceOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+  <img src="assets/images/ace_card.png" class="img-thumbnail rounded mx-auto d-block" alt="...">
+  <br/><br/>
+  <h4 class="text-center op-font text-light"><strong><i>{{aceOperator.playStyle}}</i></strong></h4>
+  <img src="assets/images/ace.png" alt="ace" style="width: 5rem;" class="rounded mx-auto d-block">
+  <p class="op-font text-light">{{aceOperator.info}}</p>
+<ul class="list-group border border-light">
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{aceOperator.role}}</strong><i>{{aceOperator.operatorRole}}</i></li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{aceOperator.health}}</strong>{{aceOperator.operatorHealth}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{aceOperator.speed}}</strong>{{aceOperator.operatorSpeed}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{aceOperator.primaryWeapon}}</strong>{{aceOperator.operatorPrimaryWeapon}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{aceOperator.secondaryWeapon}}</strong>{{aceOperator.operatorSecondaryWeapon}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{aceOperator.device}}</strong>{{aceOperator.operatorDevice}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{aceOperator.specialAbility}}</strong>{{aceOperator.operatorSpecialAbility}}</li>
+</ul>
+</mat-card-content>
+  <div class="col text-center">
+    <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/ace"><button class="btn btn-primary op-font text-light link-none">{{aceOperator.operatorDetailButton}}</button></a>
+  </div>
+</mat-card>

@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center op-font text-light">{{floresOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="op-font text-light">{{floresOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+  <img src="assets/images/flores_card.png" class="img-thumbnail rounded mx-auto d-block" alt="...">
+  <br/><br/>
+  <h4 class="text-center op-font text-light"><strong><i>{{floresOperator.playStyle}}</i></strong></h4>
+  <img src="assets/images/flores.png" alt="flores" style="width: 5rem;" class="rounded mx-auto d-block">
+  <p class="op-font text-light">{{floresOperator.info}}</p>
+  <ul class="list-group border border-light">
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{floresOperator.role}}</strong><i>{{floresOperator.operatorRole}}</i></li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{floresOperator.health}}</strong>{{floresOperator.operatorHealth}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{floresOperator.speed}}</strong>{{floresOperator.operatorSpeed}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{floresOperator.primaryWeapon}}</strong>{{floresOperator.operatorPrimaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{floresOperator.secondaryWeapon}}</strong>{{floresOperator.operatorSecondaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{floresOperator.device}}</strong>{{floresOperator.operatorDevice}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{floresOperator.specialAbility}}</strong>{{floresOperator.operatorSpecialAbility}}</li>
+  </ul>
+</mat-card-content>
+  <div class="col text-center">
+    <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/flores"><button class="btn btn-primary op-font text-light link-none">{{floresOperator.operatorDetailButton}}</button></a>
+  </div>
+</mat-card>

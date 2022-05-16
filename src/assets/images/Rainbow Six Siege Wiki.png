@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://localhost:4200/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title class="op-font text-light">Rainbow Six Siege Wiki</title>
+  <!--<base href="/">--><base href=".">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="http://localhost:4200/assets/images/r6.png">
+  <link rel="preconnect" href="https://fonts.gstatic.com/">
+  <link href="./Rainbow Six Siege Wiki_files/css2" rel="stylesheet">
+  <link href="./Rainbow Six Siege Wiki_files/icon" rel="stylesheet">
+<link rel="stylesheet" href="./Rainbow Six Siege Wiki_files/styles.css"><style>
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAuY29tcG9uZW50LnNjc3MifQ== */</style><style>.example-spacer[_ngcontent-sjq-c31] {
+  flex: 1 1 auto;
+}
+
+.header-menu[_ngcontent-sjq-c31] {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+}
+
+.header-menu[_ngcontent-sjq-c31]   li[_ngcontent-sjq-c31]   a[_ngcontent-sjq-c31] {
+  color: #fff;
+  padding: 0 10px;
+  text-decoration: none;
+  font-size: 15px;
+  opacity: 0.7;
+}
+
+.header-menu[_ngcontent-sjq-c31]   li[_ngcontent-sjq-c31]   a[_ngcontent-sjq-c31]:hover, .header-menu[_ngcontent-sjq-c31]   li[_ngcontent-sjq-c31]   a.active[_ngcontent-sjq-c31] {
+  opacity: 1;
+}
+
+.link-none[_ngcontent-sjq-c31] {
+  text-decoration: none;
+}
+
+.link-none[_ngcontent-sjq-c31]   a[_ngcontent-sjq-c31] {
+  color: inherit;
+}
+
+.op-font[_ngcontent-sjq-c31] {
+  font-family: Roboto Condensed, sans-serif;
+}
+
+a[_ngcontent-sjq-c31] {
+  text-decoration: none;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlYWRlci5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGNBQUE7QUFDSjs7QUFFRTtFQUNFLFVBQUE7RUFDQSxTQUFBO0VBQ0EsZ0JBQUE7RUFDQSxhQUFBO0FBQ0o7O0FBQ007RUFDRSxXQUFBO0VBQ0EsZUFBQTtFQUNBLHFCQUFBO0VBQ0EsZUFBQTtFQUNBLFlBQUE7QUFDUjs7QUFBUTtFQUVFLFVBQUE7QUFDVjs7QUFLQTtFQUVJLHFCQUFBO0FBSEo7O0FBRUk7RUFBSSxjQUFBO0FBQ1I7O0FBR0E7RUFDSSx5Q0FBQTtBQUFKOztBQUdBO0VBQ0UscUJBQUE7QUFBRiIsImZpbGUiOiJoZWFkZXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhhbXBsZS1zcGFjZXIge1xuICAgIGZsZXg6IDEgMSBhdXRvO1xuICB9XG5cbiAgLmhlYWRlci1tZW51e1xuICAgIHBhZGRpbmc6IDA7XG4gICAgbWFyZ2luOiAwO1xuICAgIGxpc3Qtc3R5bGU6IG5vbmU7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBsaXtcbiAgICAgIGF7XG4gICAgICAgIGNvbG9yOiAjZmZmO1xuICAgICAgICBwYWRkaW5nOiAwIDEwcHg7XG4gICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgZm9udC1zaXplOiAxNXB4O1xuICAgICAgICBvcGFjaXR5OiAwLjc7XG4gICAgICAgICY6aG92ZXIsXG4gICAgICAgICYuYWN0aXZlIHtcbiAgICAgICAgICBvcGFjaXR5OiAxO1xuICAgICAgICB9XG4gICAgICB9XG4gICAgfVxuICB9XG5cbi5saW5rLW5vbmV7XG4gICAgYSB7IGNvbG9yOiBpbmhlcml0OyB9IFxuICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbn1cblxuLm9wLWZvbnR7XG4gICAgZm9udC1mYW1pbHk6IFJvYm90byBDb25kZW5zZWQsc2Fucy1zZXJpZjtcbn1cblxuYXtcbiAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xufSJdfQ== */</style><style>.cdk-high-contrast-active .mat-toolbar{outline:solid 1px}.mat-toolbar-row,.mat-toolbar-single-row{display:flex;box-sizing:border-box;padding:0 16px;width:100%;flex-direction:row;align-items:center;white-space:nowrap}.mat-toolbar-multiple-rows{display:flex;box-sizing:border-box;flex-direction:column;width:100%}
+</style><style>.home-bg[_ngcontent-sjq-c32] {
+  background-image: url("/assets/images/homebg.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.home2-bg[_ngcontent-sjq-c32] {
+  background-image: url("/assets/images/season.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.strat[_ngcontent-sjq-c32] {
+  font-size: 42px;
+  letter-spacing: -0.04em;
+  line-height: 50px;
+  text-shadow: 0 0 2px #151d30, 0 0 2px #151d30, 0 0 2px #151d30;
+  text-transform: unset;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+  text-align: center;
+}
+
+.attack-or-def[_ngcontent-sjq-c32] {
+  font-size: 58px;
+  letter-spacing: -0.04em;
+  line-height: 70px;
+  color: #00ffe5;
+  text-shadow: 0 0 2px #151d30, 0 0 2px #151d30, 0 0 2px #151d30;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  -webkit-font-smoothing: antialiased;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.op-info[_ngcontent-sjq-c32] {
+  color: #fff;
+  text-align: center;
+  font-size: 33px;
+  letter-spacing: -0.04em;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  padding-top: 600px;
+  margin-left: 400px;
+  max-width: 960px;
+  text-shadow: 0 0 2px #151d30, 0 0 2px #151d30, 0 0 2px #151d30;
+  line-height: 40px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-transform: uppercase;
+}
+
+.op-btn[_ngcontent-sjq-c32] {
+  margin-left: 700px;
+  border-radius: 0;
+  color: #000;
+  text-shadow: none;
+  font-family: Roboto Condensed, sans-serif;
+  font-style: italic;
+}
+
+.season[_ngcontent-sjq-c32] {
+  font-size: 42px;
+  letter-spacing: -0.04em;
+  line-height: 50px;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+  text-align: center;
+  padding-top: 350px;
+}
+
+.discover[_ngcontent-sjq-c32] {
+  font-size: 58px;
+  letter-spacing: -0.04em;
+  line-height: 70px;
+  color: #00ffe5;
+  text-shadow: 0 0 2px #151d30, 0 0 2px #151d30, 0 0 2px #151d30;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.images-p[_ngcontent-sjq-c32] {
+  font-size: 25px;
+  letter-spacing: -0.04em;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: uppercase;
+  text-shadow: 0 0 2px #151d30, 0 0 2px #151d30, 0 0 2px #151d30;
+  color: #fff;
+  width: 100px;
+  padding-top: 100px;
+  line-height: 30px;
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  height: auto;
+}
+
+.new-ops[_ngcontent-sjq-c32] {
+  margin-left: 625px;
+}
+
+.new-skins[_ngcontent-sjq-c32] {
+  margin-left: 100px;
+}
+
+.new-events[_ngcontent-sjq-c32] {
+  margin-left: 100px;
+}
+
+.green-t[_ngcontent-sjq-c32] {
+  color: #00ffe5;
+}
+
+.every-season[_ngcontent-sjq-c32] {
+  font-size: 28px;
+  letter-spacing: -0.04em;
+  line-height: 40px;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0 0 2px #151d30, 0 0 2px #151d30, 0 0 2px #151d30;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxrREFBQTtFQUNBLHFCQUFBO0VBQ0EsNEJBQUE7QUFDSjs7QUFFQTtFQUNJLGtEQUFBO0VBQ0EscUJBQUE7RUFDQSw0QkFBQTtBQUNKOztBQUVBO0VBQ0ksZUFBQTtFQUNBLHVCQUFBO0VBQ0EsaUJBQUE7RUFDQSw4REFBQTtFQUNBLHFCQUFBO0VBQ0EseUNBQUE7RUFDQSxnQkFBQTtFQUNBLGtCQUFBO0VBQ0EsbUNBQUE7RUFDQSxXQUFBO0VBQ0Esa0JBQUE7QUFDSjs7QUFFQTtFQUNJLGVBQUE7RUFDQSx1QkFBQTtFQUNBLGlCQUFBO0VBQ0EsY0FBQTtFQUNBLDhEQUFBO0VBQ0EseUNBQUE7RUFDQSxnQkFBQTtFQUNBLGtCQUFBO0VBQ0EsbUNBQUE7RUFDQSx5QkFBQTtFQUNBLGtCQUFBO0FBQ0o7O0FBRUE7RUFDSSxXQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0VBQ0EsdUJBQUE7RUFDQSx5Q0FBQTtFQUNBLGdCQUFBO0VBQ0Esa0JBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0EsZ0JBQUE7RUFDQSw4REFBQTtFQUNBLGlCQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQ0FBQTtFQUNBLHlCQUFBO0FBQ0o7O0FBRUE7RUFDSSxrQkFBQTtFQUNBLGdCQUFBO0VBQ0EsV0FBQTtFQUNBLGlCQUFBO0VBQ0EseUNBQUE7RUFDQSxrQkFBQTtBQUNKOztBQUVBO0VBQ0ksZUFBQTtFQUNBLHVCQUFBO0VBQ0EsaUJBQUE7RUFDQSx5Q0FBQTtFQUNBLGdCQUFBO0VBQ0Esa0JBQUE7RUFDQSxtQ0FBQTtFQUNBLFdBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0FBQ0o7O0FBRUE7RUFDSSxlQUFBO0VBQ0EsdUJBQUE7RUFDQSxpQkFBQTtFQUNBLGNBQUE7RUFDQSw4REFBQTtFQUNBLHlDQUFBO0VBQ0EsZ0JBQUE7RUFDQSxrQkFBQTtFQUNBLHlCQUFBO0VBQ0Esa0JBQUE7QUFDSjs7QUFFQTtFQUNJLGVBQUE7RUFDQSx1QkFBQTtFQUNBLHlDQUFBO0VBQ0EsZ0JBQUE7RUFDQSxrQkFBQTtFQUNBLHlCQUFBO0VBQ0EsOERBQUE7RUFDQSxXQUFBO0VBQ0EsWUFBQTtFQUNBLGtCQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLG9CQUFBO0VBQ0Esc0JBQUE7RUFDQSxZQUFBO0FBQ0o7O0FBRUE7RUFDSSxrQkFBQTtBQUNKOztBQUVBO0VBQ0ksa0JBQUE7QUFDSjs7QUFDQTtFQUNJLGtCQUFBO0FBRUo7O0FBQ0E7RUFDSSxjQUFBO0FBRUo7O0FBQ0E7RUFDSSxlQUFBO0VBQ0EsdUJBQUE7RUFDQSxpQkFBQTtFQUNBLHlDQUFBO0VBQ0EsZ0JBQUE7RUFDQSxrQkFBQTtFQUNBLG1DQUFBO0VBQ0EsV0FBQTtFQUNBLGtCQUFBO0VBQ0EseUJBQUE7RUFDQSw4REFBQTtBQUVKIiwiZmlsZSI6ImhvbWUuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaG9tZS1iZ3tcbiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCIvYXNzZXRzL2ltYWdlcy9ob21lYmcucG5nXCIpO1xuICAgIGJhY2tncm91bmQtc2l6ZTogMTAwJTtcbiAgICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xufVxuXG4uaG9tZTItYmd7XG4gICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL2Fzc2V0cy9pbWFnZXMvc2Vhc29uLnBuZ1wiKTtcbiAgICBiYWNrZ3JvdW5kLXNpemU6IDEwMCU7XG4gICAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcbn1cblxuLnN0cmF0e1xuICAgIGZvbnQtc2l6ZTogNDJweDtcbiAgICBsZXR0ZXItc3BhY2luZzogLS4wNGVtO1xuICAgIGxpbmUtaGVpZ2h0OiA1MHB4O1xuICAgIHRleHQtc2hhZG93OiAwIDAgMnB4ICMxNTFkMzAsIDAgMCAycHggIzE1MWQzMCwgMCAwIDJweCAjMTUxZDMwO1xuICAgIHRleHQtdHJhbnNmb3JtOiB1bnNldDtcbiAgICBmb250LWZhbWlseTogUm9ib3RvIENvbmRlbnNlZCxzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgZm9udC1zdHlsZTogaXRhbGljO1xuICAgIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkO1xuICAgIGNvbG9yOiAjZmZmO1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLmF0dGFjay1vci1kZWZ7XG4gICAgZm9udC1zaXplOiA1OHB4O1xuICAgIGxldHRlci1zcGFjaW5nOiAtLjA0ZW07XG4gICAgbGluZS1oZWlnaHQ6IDcwcHg7XG4gICAgY29sb3I6ICMwMGZmZTU7XG4gICAgdGV4dC1zaGFkb3c6IDAgMCAycHggIzE1MWQzMCwgMCAwIDJweCAjMTUxZDMwLCAwIDAgMnB4ICMxNTFkMzA7XG4gICAgZm9udC1mYW1pbHk6IFJvYm90byBDb25kZW5zZWQsc2Fucy1zZXJpZjtcbiAgICBmb250LXdlaWdodDogNDAwO1xuICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbiAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDtcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm9wLWluZm97XG4gICAgY29sb3I6ICNmZmY7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgIGZvbnQtc2l6ZTogMzNweDtcbiAgICBsZXR0ZXItc3BhY2luZzogLS4wNGVtO1xuICAgIGZvbnQtZmFtaWx5OiBSb2JvdG8gQ29uZGVuc2VkLHNhbnMtc2VyaWY7XG4gICAgZm9udC13ZWlnaHQ6IDQwMDtcbiAgICBmb250LXN0eWxlOiBpdGFsaWM7XG4gICAgcGFkZGluZy10b3A6IDYwMHB4O1xuICAgIG1hcmdpbi1sZWZ0OiA0MDBweDtcbiAgICBtYXgtd2lkdGg6IDk2MHB4O1xuICAgIHRleHQtc2hhZG93OiAwIDAgMnB4ICMxNTFkMzAsIDAgMCAycHggIzE1MWQzMCwgMCAwIDJweCAjMTUxZDMwO1xuICAgIGxpbmUtaGVpZ2h0OiA0MHB4O1xuICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn1cblxuLm9wLWJ0bntcbiAgICBtYXJnaW4tbGVmdDogNzAwcHg7XG4gICAgYm9yZGVyLXJhZGl1czogMDtcbiAgICBjb2xvcjogIzAwMDtcbiAgICB0ZXh0LXNoYWRvdzogbm9uZTtcbiAgICBmb250LWZhbWlseTogUm9ib3RvIENvbmRlbnNlZCxzYW5zLXNlcmlmO1xuICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbn1cblxuLnNlYXNvbntcbiAgICBmb250LXNpemU6IDQycHg7XG4gICAgbGV0dGVyLXNwYWNpbmc6IC0uMDRlbTtcbiAgICBsaW5lLWhlaWdodDogNTBweDtcbiAgICBmb250LWZhbWlseTogUm9ib3RvIENvbmRlbnNlZCxzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgZm9udC1zdHlsZTogaXRhbGljO1xuICAgIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkO1xuICAgIGNvbG9yOiAjZmZmO1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICBwYWRkaW5nLXRvcDogMzUwcHg7XG59XG5cbi5kaXNjb3ZlcntcbiAgICBmb250LXNpemU6IDU4cHg7XG4gICAgbGV0dGVyLXNwYWNpbmc6IC0uMDRlbTtcbiAgICBsaW5lLWhlaWdodDogNzBweDtcbiAgICBjb2xvcjogIzAwZmZlNTtcbiAgICB0ZXh0LXNoYWRvdzogMCAwIDJweCAjMTUxZDMwLCAwIDAgMnB4ICMxNTFkMzAsIDAgMCAycHggIzE1MWQzMDtcbiAgICBmb250LWZhbWlseTogUm9ib3RvIENvbmRlbnNlZCxzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgZm9udC1zdHlsZTogaXRhbGljO1xuICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4uaW1hZ2VzLXB7XG4gICAgZm9udC1zaXplOiAyNXB4O1xuICAgIGxldHRlci1zcGFjaW5nOiAtLjA0ZW07XG4gICAgZm9udC1mYW1pbHk6IFJvYm90byBDb25kZW5zZWQsc2Fucy1zZXJpZjtcbiAgICBmb250LXdlaWdodDogNDAwO1xuICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xuICAgIHRleHQtc2hhZG93OiAwIDAgMnB4ICMxNTFkMzAsIDAgMCAycHggIzE1MWQzMCwgMCAwIDJweCAjMTUxZDMwO1xuICAgIGNvbG9yOiAjZmZmO1xuICAgIHdpZHRoOiAxMDBweDtcbiAgICBwYWRkaW5nLXRvcDogMTAwcHg7XG4gICAgbGluZS1oZWlnaHQ6IDMwcHg7XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgIGRpc3BsYXk6IGlubGluZS1mbGV4O1xuICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgaGVpZ2h0OiBhdXRvO1xufVxuXG4ubmV3LW9wc3tcbiAgICBtYXJnaW4tbGVmdDogNjI1cHg7XG59XG5cbi5uZXctc2tpbnN7XG4gICAgbWFyZ2luLWxlZnQ6IDEwMHB4O1xufVxuLm5ldy1ldmVudHN7XG4gICAgbWFyZ2luLWxlZnQ6IDEwMHB4O1xufVxuXG4uZ3JlZW4tdHtcbiAgICBjb2xvcjogIzAwZmZlNTtcbn1cblxuLmV2ZXJ5LXNlYXNvbntcbiAgICBmb250LXNpemU6IDI4cHg7XG4gICAgbGV0dGVyLXNwYWNpbmc6IC0uMDRlbTtcbiAgICBsaW5lLWhlaWdodDogNDBweDtcbiAgICBmb250LWZhbWlseTogUm9ib3RvIENvbmRlbnNlZCxzYW5zLXNlcmlmO1xuICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgZm9udC1zdHlsZTogaXRhbGljO1xuICAgIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkO1xuICAgIGNvbG9yOiAjZmZmO1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xuICAgIHRleHQtc2hhZG93OiAwIDAgMnB4ICMxNTFkMzAsIDAgMCAycHggIzE1MWQzMCwgMCAwIDJweCAjMTUxZDMwO1xufSJdfQ== */</style></head>
+<body class="mat-typography">
+  <app-root _nghost-sjq-c57="" ng-version="13.3.6"><app-header _ngcontent-sjq-c57="" _nghost-sjq-c31=""><header _ngcontent-sjq-c31="" class="header"><mat-toolbar _ngcontent-sjq-c31="" color="primary" class="mat-toolbar mat-primary mat-toolbar-single-row" ng-reflect-color="primary"><span _ngcontent-sjq-c31="" class="op-font text-light link-none"><a _ngcontent-sjq-c31="" href="http://localhost:4200/index.html">Rainbow Six Siege Wiki</a></span><span _ngcontent-sjq-c31="" class="example-spacer"></span><ul _ngcontent-sjq-c31="" class="header-menu"><li _ngcontent-sjq-c31=""><a _ngcontent-sjq-c31="" routerlink="/" routerlinkactive="active" ng-reflect-router-link="/" ng-reflect-router-link-active="active" ng-reflect-router-link-active-options="[object Object]" href="http://localhost:4200/" class="active">Ana Sayfa</a></li><li _ngcontent-sjq-c31=""><a _ngcontent-sjq-c31="" routerlink="/about" routerlinkactive="active" ng-reflect-router-link="/about" ng-reflect-router-link-active="active" href="http://localhost:4200/about">Hakkında</a></li><li _ngcontent-sjq-c31=""><a _ngcontent-sjq-c31="" routerlink="/operators" routerlinkactive="active" ng-reflect-router-link="/operators" ng-reflect-router-link-active="active" href="http://localhost:4200/operators">Operatörler</a></li></ul></mat-toolbar></header></app-header><router-outlet _ngcontent-sjq-c57=""></router-outlet><app-home _nghost-sjq-c32=""><main _ngcontent-sjq-c32="" class="home-bg"><h2 _ngcontent-sjq-c32="" class="strat">Stratejini belirle</h2><h3 _ngcontent-sjq-c32="" class="attack-or-def">SALDIRAN KARŞISINDA SAVUNAN</h3><p _ngcontent-sjq-c32="" class="op-info">OYUNDA 55 ÖZGÜN OPERATÖR SEÇENEĞİ, HER BİRİNİN SAVAŞTA SİZE YARDIM EDEBİLECEK CİHAZLARIYLA SUNULUYOR!</p><button _ngcontent-sjq-c32="" type="button" class="btn btn-primary btn-lg op-btn">BÜTÜN OPERATÖRLERİ İNCELE</button></main><main _ngcontent-sjq-c32="" class="home2-bg"><h2 _ngcontent-sjq-c32="" class="season">Her sezon</h2><h3 _ngcontent-sjq-c32="" class="discover">KEŞFEDILECEK YENI İÇERIKLER</h3><p _ngcontent-sjq-c32="" class="images-p new-ops green-t"><img _ngcontent-sjq-c32="" src="./Rainbow Six Siege Wiki_files/newops.png">YENİ OPERATÖRLER</p><p _ngcontent-sjq-c32="" class="images-p new-skins green-t"><img _ngcontent-sjq-c32="" src="./Rainbow Six Siege Wiki_files/newskins.png">YENİ KAPLAMALAR</p><p _ngcontent-sjq-c32="" class="images-p new-events green-t"><img _ngcontent-sjq-c32="" src="./Rainbow Six Siege Wiki_files/newevents.png">YENİ ETKİNLİKLER</p><p _ngcontent-sjq-c32="" class="every-season">HER SEZON OYUNA AKSİYONU TAZE VE HEYECANLI KILMAK İÇİN BİRÇOK<br _ngcontent-sjq-c32=""> ÜCRETSİZ İÇERİK VE DİĞER SÜRPRİZLER EKLENİYOR.</p></main></app-home><!--container--></app-root>
+<script src="./Rainbow Six Siege Wiki_files/runtime.js" type="module"></script><script src="./Rainbow Six Siege Wiki_files/polyfills.js" type="module"></script><script src="./Rainbow Six Siege Wiki_files/styles.js" defer=""></script><script src="./Rainbow Six Siege Wiki_files/scripts.js" defer=""></script><script src="./Rainbow Six Siege Wiki_files/vendor.js" type="module"></script><script src="./Rainbow Six Siege Wiki_files/main.js" type="module"></script>
+
+</body></html>

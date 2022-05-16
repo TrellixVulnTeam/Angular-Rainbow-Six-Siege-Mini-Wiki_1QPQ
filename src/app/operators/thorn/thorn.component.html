@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center text-light op-font">{{thornOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="text-light op-font">{{thornOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+<img src="assets/images/thorn_card.png" class="img-thumbnail rounded mx-auto d-block" alt="thorn">
+<br/><br/>
+<h4 class="text-center text-light op-font"><strong><i>{{thornOperator.playStyle}}</i></strong></h4>
+<img src="assets/images/thorn.png" alt="thorn" style="width: 5rem;" class="rounded mx-auto d-block">
+<p class="text-light op-font">{{thornOperator.info}}</p>
+<ul class="list-group border border-light">
+  <li class="list-group-item bg-transparent text-light op-font border border-light"><strong>{{thornOperator.role}}</strong><i>{{thornOperator.operatorRole}}</i></li>
+  <li class="list-group-item bg-transparent text-light op-font border border-light"><strong>{{thornOperator.health}}</strong>{{thornOperator.operatorHealth}}</li>
+  <li class="list-group-item bg-transparent text-light op-font border border-light"><strong>{{thornOperator.speed}}</strong>{{thornOperator.operatorSpeed}}</li>
+  <li class="list-group-item bg-transparent text-light op-font border border-light"><strong>{{thornOperator.primaryWeapon}}</strong>{{thornOperator.operatorPrimaryWeapon}}</li>
+  <li class="list-group-item bg-transparent text-light op-font border border-light"><strong>{{thornOperator.secondaryWeapon}}</strong>{{thornOperator.operatorSecondaryWeapon}}</li>
+  <li class="list-group-item bg-transparent text-light op-font border border-light"><strong>{{thornOperator.device}}</strong>{{thornOperator.operatorDevice}}</li>
+  <li class="list-group-item bg-transparent text-light op-font border border-light"><strong>{{thornOperator.specialAbility}}</strong>{{thornOperator.operatorSpecialAbility}}</li>
+</ul>
+</mat-card-content>
+<div class="col text-center">
+  <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/thorn"><button class="btn btn-primary op-font text-light link-none">{{thornOperator.operatorDetailButton}}</button></a>
+</div>
+</mat-card>

@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center op-font text-light">{{melusiOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="op-font text-light">{{melusiOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+  <img src="assets/images/melusi_card.png" class="img-thumbnail rounded mx-auto d-block" alt="...">
+  <br/><br/>
+  <h4 class="text-center op-font text-light"><strong><i>{{melusiOperator.playStyle}}</i></strong></h4>
+  <img src="assets/images/melusi.png" alt="melusi" style="width: 5rem;" class="rounded mx-auto d-block">
+  <p class="op-font text-light">{{melusiOperator.info}}</p>
+  <ul class="list-group border border-light">
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{melusiOperator.role}}</strong><i>{{melusiOperator.operatorRole}}</i></li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{melusiOperator.health}}</strong>{{melusiOperator.operatorHealth}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{melusiOperator.speed}}</strong>{{melusiOperator.operatorSpeed}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{melusiOperator.primaryWeapon}}</strong>{{melusiOperator.operatorPrimaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{melusiOperator.secondaryWeapon}}</strong>{{melusiOperator.operatorSecondaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{melusiOperator.device}}</strong>{{melusiOperator.operatorDevice}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{melusiOperator.specialAbility}}</strong>{{melusiOperator.operatorSpecialAbility}}</li>
+  </ul>
+</mat-card-content>
+  <div class="col text-center">
+    <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/melusi"><button class="btn btn-primary op-font text-light link-none">{{melusiOperator.operatorDetailButton}}</button></a>
+  </div>
+</mat-card>

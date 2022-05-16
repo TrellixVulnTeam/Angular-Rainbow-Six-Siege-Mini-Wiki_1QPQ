@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center text-light op-font">{{azamiOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="text-light op-font">{{azamiOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+<img src="assets/images/azami_card.png" class="img-thumbnail rounded mx-auto d-block" alt="azami">
+<br/><br/>
+<h4 class="text-center text-light op-font"><strong><i>{{azamiOperator.playStyle}}</i></strong></h4>
+<img src="assets/images/azami.png" alt="azami" style="width: 5rem;" class="rounded mx-auto d-block">
+<p class="text-light op-font">{{azamiOperator.info}}</p>
+<ul class="list-group border border-light">
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{azamiOperator.role}}</strong><i>{{azamiOperator.operatorRole}}</i></li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{azamiOperator.health}}</strong>{{azamiOperator.operatorHealth}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{azamiOperator.speed}}</strong>{{azamiOperator.operatorSpeed}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{azamiOperator.primaryWeapon}}</strong>{{azamiOperator.operatorPrimaryWeapon}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{azamiOperator.secondaryWeapon}}</strong>{{azamiOperator.operatorSecondaryWeapon}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{azamiOperator.device}}</strong>{{azamiOperator.operatorDevice}}</li>
+  <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{azamiOperator.specialAbility}}</strong>{{azamiOperator.operatorSpecialAbility}}</li>
+</ul>
+</mat-card-content>
+<div class="col text-center">
+  <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/azami"><button class="btn btn-primary op-font text-light link-none">{{azamiOperator.operatorDetailButton}}</button></a>
+</div>
+</mat-card>

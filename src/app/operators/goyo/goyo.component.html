@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center op-font text-light">{{goyoOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="op-font text-light">{{goyoOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+  <img src="assets/images/goyo_card.png" class="img-thumbnail rounded mx-auto d-block" alt="...">
+  <br/><br/>
+  <h4 class="text-center op-font text-light"><strong><i>{{goyoOperator.playStyle}}</i></strong></h4>
+  <img src="assets/images/goyo.png" alt="goyo" style="width: 5rem;" class="rounded mx-auto d-block">
+  <p class="op-font text-light">{{goyoOperator.info}}</p>
+  <ul class="list-group border border-light">
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{goyoOperator.role}}</strong><i>{{goyoOperator.operatorRole}}</i></li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{goyoOperator.health}}</strong>{{goyoOperator.operatorHealth}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{goyoOperator.speed}}</strong>{{goyoOperator.operatorSpeed}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{goyoOperator.primaryWeapon}}</strong>{{goyoOperator.operatorPrimaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{goyoOperator.secondaryWeapon}}</strong>{{goyoOperator.operatorSecondaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{goyoOperator.device}}</strong>{{goyoOperator.operatorDevice}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{goyoOperator.specialAbility}}</strong>{{goyoOperator.operatorSpecialAbility}}</li>
+  </ul>
+</mat-card-content>
+  <div class="col text-center">
+    <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/goyo"><button class="btn btn-primary op-font text-light link-none">{{goyoOperator.operatorDetailButton}}</button></a>
+  </div>
+</mat-card>

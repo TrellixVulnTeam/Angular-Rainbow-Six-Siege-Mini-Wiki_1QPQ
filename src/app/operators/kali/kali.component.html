@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+  <mat-card-header class="d-flex justify-content-center">
+    <mat-card-title class="text-center op-font text-light">{{kaliOperator.name}}</mat-card-title>
+      <mat-card-subtitle class="op-font text-light">{{kaliOperator.playSide}}</mat-card-subtitle>
+  </mat-card-header>
+<mat-card-content>
+  <img src="assets/images/kali_card.png" class="img-thumbnail rounded mx-auto d-block" alt="...">
+  <br/><br/>
+  <h4 class="text-center op-font text-light"><strong><i>{{kaliOperator.playStyle}}</i></strong></h4>
+  <img src="assets/images/kali.png" alt="kali" style="width: 5rem;" class="rounded mx-auto d-block">
+  <p class="op-font text-light">{{kaliOperator.info}}</p>
+  <ul class="list-group border border-light">
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{kaliOperator.role}}</strong><i>{{kaliOperator.operatorRole}}</i></li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{kaliOperator.health}}</strong>{{kaliOperator.operatorHealth}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{kaliOperator.speed}}</strong>{{kaliOperator.operatorSpeed}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{kaliOperator.primaryWeapon}}</strong>{{kaliOperator.operatorPrimaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{kaliOperator.secondaryWeapon}}</strong>{{kaliOperator.operatorSecondaryWeapon}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{kaliOperator.device}}</strong>{{kaliOperator.operatorDevice}}</li>
+    <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{kaliOperator.specialAbility}}</strong>{{kaliOperator.operatorSpecialAbility}}</li>
+  </ul>
+</mat-card-content>
+  <div class="col text-center">
+    <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/kali"><button class="btn btn-primary op-font text-light link-none">{{kaliOperator.operatorDetailButton}}</button></a>
+  </div>
+</mat-card>

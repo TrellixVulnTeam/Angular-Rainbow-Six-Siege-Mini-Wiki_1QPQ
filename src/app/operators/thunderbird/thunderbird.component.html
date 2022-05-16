@@ -1,0 +1,25 @@
+<mat-card class="card-item bg-transparent border border-light">
+    <mat-card-header class="d-flex justify-content-center">
+        <mat-card-title class="text-center op-font text-light">{{thunderbirdOperator.name}}</mat-card-title>
+            <mat-card-subtitle class="op-font text-light">{{thunderbirdOperator.playSide}}</mat-card-subtitle>
+    </mat-card-header>
+<mat-card-content>
+    <img src="assets/images/thunderbird_card.png" class="img-thumbnail rounded mx-auto d-block" alt="...">
+    <br/><br/>
+    <h4 class="text-center op-font text-light"><strong><i>{{thunderbirdOperator.playStyle}}</i></strong></h4>
+    <img src="assets/images/thunderbird.png" alt="thunderbird" style="width: 5rem;" class="rounded mx-auto d-block">
+    <p class="op-font text-light">{{thunderbirdOperator.info}}</p>
+    <ul class="list-group border border-light">
+        <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{thunderbirdOperator.role}}</strong><i>{{thunderbirdOperator.operatorRole}}</i></li>
+        <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{thunderbirdOperator.health}}</strong> ✓ x x</li>
+        <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{thunderbirdOperator.speed}}</strong> ✓ ✓ ✓</li>
+        <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{thunderbirdOperator.primaryWeapon}}</strong>{{thunderbirdOperator.operatorPrimaryWeapon}}</li>
+        <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{thunderbirdOperator.secondaryWeapon}}</strong>{{thunderbirdOperator.operatorSecondaryWeapon}}</li>
+        <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{thunderbirdOperator.device}}</strong>{{thunderbirdOperator.operatorDevice}}</li>
+        <li class="list-group-item bg-transparent op-font text-light border border-light"><strong>{{thunderbirdOperator.specialAbility}}</strong>{{thunderbirdOperator.operatorSpecialAbility}}</li>
+    </ul>
+</mat-card-content>
+    <div class="col text-center">
+        <a href="https://www.ubisoft.com/tr-tr/game/rainbow-six/siege/game-info/operators/thunderbird"><button class="btn btn-primary op-font text-light link-none">{{thunderbirdOperator.operatorDetailButton}}</button></a>
+    </div>
+</mat-card>
